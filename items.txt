@@ -1,0 +1,7 @@
+chocolate bar::2.5::1
+burger::4.99::7
+iced tea::2.88::5
+sprite::2.45::4
+Yogurt::4.99::10
+dr. pepper::2.63::9
+Boba tea::5.95::4
